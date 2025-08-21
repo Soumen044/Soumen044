@@ -1,4 +1,5 @@
-<h1 align="center"> Namaste 🙏, I'm Soumen Mishra ( सौमेन मिश्रा ) </h1>
+<h1 align="center"> Namaste 🙏 </h1>
+<h1 align="center"> I'm Soumen Mishra ( सौमेन मिश्रा ) </h1>
 
 ---
 
