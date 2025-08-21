@@ -41,15 +41,15 @@ I am an IT student specializing in Java, JavaScript, Flutter, and the MERN stack
 ## GitHub Stats
 
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=soumen044&show_icons=true&locale=en" alt="github stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumen044&show_icons=true&locale=en&layout=compact" alt="top languages" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=soumen044" alt="streak stats" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=soumen044&show_icons=true&locale=en" alt="Github Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen044&layout=compact&hide=html" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumen044" alt="Github Streak" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ I am an enthusiastic software developer passionate about building impactful tech
 ## Current Focus & Collaboration
 
 - 🔭 Building **Thisk - Mobile Application (Flutter)**
-- 🌱 Learning **Flutter, Dart & Docker**
+- 🌱 Learning **Flutter, Dart, Docker**
 - 👯 Looking to collaborate on **Web, App, and IoT projects**
 - 📝 Regular tech writer on [LinkedIn](https://www.linkedin.com/in/sowmen04/)
 
@@ -82,11 +82,13 @@ I am an enthusiastic software developer passionate about building impactful tech
 
 ## Tech & Tools
 
-**Languages:** Java · JavaScript · C++ · Dart · SQL · HTML · CSS  
-**Frameworks & Libraries:** React.js · Node.js · Express.js · Flutter · Arduino  
-**Databases:** MongoDB · MySQL  
-**Tools:** Git · VS Code · Android Studio · Arduino IDE · Postman  
-**Concepts:** OOP · SDLC · REST APIs · Agile · IoT · Machine Learning
+| Category           | Technologies & Tools                                     |
+|--------------------|---------------------------------------------------------|
+| **Languages**       | Java, JavaScript, C++, Dart, SQL, HTML, CSS             |
+| **Frameworks/Libs** | React.js, Node.js, Express.js, Flutter, Arduino          |
+| **Databases**       | MongoDB, MySQL                                           |
+| **Tools**           | Git, VS Code, Android Studio, Arduino IDE, Postman      |
+| **Concepts**        | OOP, SDLC, REST APIs, Agile, IoT, Machine Learning      |
 
 ---
 
