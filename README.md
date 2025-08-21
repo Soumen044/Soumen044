@@ -1,4 +1,4 @@
-<h1 align="center">Soumen Mishra</h1>
+<h1 align="center"> Namaste 🙏, I'm Soumen Mishra ( सौमेन मिश्रा ) </h1>
 
 ---
 
@@ -72,7 +72,6 @@ I am an enthusiastic software developer passionate about building impactful tech
 ## Selected Projects
 
 - [AQI Forecasting Platform](https://github.com/Soumen044/your-aqi-project-repo): MERN + Leaflet.js web app with ML-based AQI forecasting and real-time NASA/ISRO/CPCB data integration.
-- [Anti-Collision IoT Car](https://github.com/Soumen044/your-anti-collision-car-repo): Android + embedded microcontroller car system using ultrasonic sensors.
 - [Vehicle Rental Platform](https://github.com/Soumen044/your-rental-platform-repo): Map-based MERN app for real-time vehicle rental availability.
 - [Object-Detection-Car-ESP32-Android](https://github.com/Soumen044/Object-Detection-Car-ESP32-Android): Real-time ESP32 and Android-controlled car detection system.
 
