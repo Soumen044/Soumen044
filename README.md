@@ -73,7 +73,7 @@ I am an enthusiastic software developer passionate about building impactful tech
 ## Selected Projects
 
 - [AQI Forecasting Platform](https://github.com/Soumen044/AQI-Prediction-System): MERN + Leaflet.js web app with ML-based AQI forecasting and real-time NASA/ISRO/CPCB data integration.
-- [Vehicle Rental Platform](https://github.com/Soumen044/your-rental-platform-repo): Map-based MERN app for real-time vehicle rental availability.
+- [Vehicle Rental Platform](https://github.com/Soumen044/Vehicle_Rental_Platform): Map-based MERN app for real-time vehicle rental availability.
 - [Object-Detection-Car-ESP32-Android](https://github.com/Soumen044/Object-Detection-Car-ESP32-Android): Real-time ESP32 and Android-controlled car detection system.
 
 > Explore all repositories on [my GitHub](https://github.com/Soumen044?tab=repositories).
