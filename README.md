@@ -30,7 +30,7 @@ I am an IT student specializing in Java, JavaScript, Flutter, and the MERN stack
 ## Connect with Me
 
 <p align="left">
-  <a href="mailto:soumenmishra187@gmail.com"><img src="https://img.shields.io/badge/Email-soumenmishra187@gmail.com-yellow?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:soumenmishra187@gmail.com"><img src="https://img.shields.io/badge/Email-soumenmishra187@gmail.com-violet?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/sowmen04"><img src="https://img.shields.io/badge/LinkedIn-sowmen04-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://twitter.com/sowmen04"><img src="https://img.shields.io/badge/Twitter-@sowmen04-red?logo=twitter&style=for-the-badge" /></a>
   <a href="https://dev.to/sowmen04"><img src="https://img.shields.io/badge/Dev.to-sowmen04-black?logo=dev.to&style=for-the-badge" /></a>
