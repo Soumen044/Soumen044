@@ -30,11 +30,11 @@ I am an IT student specializing in Java, JavaScript, Flutter, and the MERN stack
 ## Connect with Me
 
 <p align="left">
-  <a href="mailto:soumenmishra187@gmail.com"><img src="https://img.shields.io/badge/Email-soumenmishra187@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:soumenmishra187@gmail.com"><img src="https://img.shields.io/badge/Email-soumenmishra187@gmail.com-yellow?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/sowmen04"><img src="https://img.shields.io/badge/LinkedIn-sowmen04-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/sowmen04"><img src="https://img.shields.io/badge/Twitter-@sowmen04-gray?logo=twitter&style=for-the-badge" /></a>
+  <a href="https://twitter.com/sowmen04"><img src="https://img.shields.io/badge/Twitter-@sowmen04-red?logo=twitter&style=for-the-badge" /></a>
   <a href="https://dev.to/sowmen04"><img src="https://img.shields.io/badge/Dev.to-sowmen04-black?logo=dev.to&style=for-the-badge" /></a>
-  <a href="https://instagram.com/sowmen_04"><img src="https://img.shields.io/badge/Instagram-sowmen_04-purple?logo=instagram&style=for-the-badge" /></a>
+  <a href="https://instagram.com/sowmen_04"><img src="https://img.shields.io/badge/Instagram-sowmen_04-orange?logo=instagram&style=for-the-badge" /></a>
   <a href="https://facebook.com/Sowmen04"><img src="https://img.shields.io/badge/Facebook-sowmen_04-skyblue?logo=Facebook&style=for-the-badge" /></a>
 </p>
 
