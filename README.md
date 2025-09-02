@@ -42,17 +42,22 @@ I am an IT student specializing in Java, JavaScript, Flutter, and the MERN stack
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumen044&show_icons=true&locale=en" alt="Github Stats" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=soumen044&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumen044" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen044&layout=compact&hide=html" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen044&layout=compact&hide=html" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumen044" alt="Github Streak" />
-</p>
 
 ---
 
