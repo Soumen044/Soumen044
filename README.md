@@ -108,7 +108,9 @@ I am an enthusiastic software developer passionate about building impactful tech
 
 ## Education
 
-- Diploma in IT Engineering, WBSCTVESD (2025) — 68% overall
+- Bachelors in Technology in Computer Science Engineering, MAKAUTWB (2028)
+- Diploma in IT Engineering, WBSCTVESD (2025) — 70% overall
+- Higher Secondary, WBCHSE (2024) — 72.6% overall — Focus on Commerce, Business & Finance
 - Secondary (Madhyamik), WBBSE (2022) — 69.8% overall — Focus on Mathematics & Physical Science
 
 ---
