@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Soumen Mishra.jpg" alt="Soumen Mishra Banner" width="100%" />
+  <img src="Soumen044/Soumen_Mishra.jpg" alt="Soumen Mishra Banner" width="100%" />
 </p>
 <h1 align="center"> Namaste 🙏 </h1>
 <h1 align="center"> I'm Soumen Mishra ( सौमेन मिश्रा ) </h1>
