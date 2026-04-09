@@ -1,150 +1,138 @@
 <p align="center">
   <img src="Soumen_Mishra.jpg" alt="Soumen Mishra Banner" width="100%" />
 </p>
-<h1 align="center"> Namaste 🙏 </h1>
-<h1 align="center"> I'm Soumen Mishra ( सौमेन मिश्रा ) </h1>
+
+<h1 align="center">Namaste 🙏</h1>
+<h1 align="center">I'm Soumen Mishra (सौमेन मिश्रा)</h1>
+
+<h3 align="center">Full-Stack & Mobile Developer | Java • MERN • Flutter • IoT</h3>
 
 ---
 
-## Bio
+### 👋 About Me
 
-<div align="left">
+Passionate software developer with hands-on experience in building scalable web, mobile, and IoT applications. Recognized in national hackathons including **ISRO** and **Unstop** for projects in Air Quality Forecasting and Vehicle Rental platforms.  
 
-Aspiring Software Engineer | Java | MERN Stack | Flutter | IoT | Machine Learning
+I enjoy turning ideas into impactful solutions using modern technologies and have gained practical experience through internships in Industrial IoT and Full-Stack development.
 
-I am an IT student specializing in Java, JavaScript, Flutter, and the MERN stack. I am passionate about creating impactful solutions and have been recognized in national hackathons like ISRO and Unstop for projects in Air Quality Forecasting and Vehicle Rental platforms. Experienced in IoT and real-time monitoring systems through internships. Based in West Bengal, India.
-
-</div>
+Based in West Bengal, India.
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=soumen044&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/soumenmishi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me a Coffee" />
-  </a>
-</p>
+| Category              | Technologies |
+|-----------------------|-------------|
+| **Languages**         | Java, JavaScript, Dart, C++, SQL, HTML, CSS |
+| **Frameworks & Tools**| React.js, Node.js, Express.js, Flutter, Arduino |
+| **Databases**         | MongoDB, MySQL |
+| **Other**             | Git, REST APIs, IoT, Machine Learning, Docker |
 
 ---
 
-## Connect with Me
+### 🚀 Current Focus
+
+- 🔭 Building **Thisk** — A modern mobile application using **Flutter**
+- 🌱 Deepening skills in **Flutter, Dart & Docker**
+- 👯 Open to collaboration on **Web, Mobile, and IoT** projects
+
+---
+
+### 🔥 Selected Projects
+
+- **[AQI Forecasting Platform](https://github.com/Soumen044/AQI-Prediction-System)**  
+  MERN stack web application with ML-powered Air Quality Index prediction. Integrates real-time data from NASA, ISRO, and CPCB using Leaflet.js maps.
+
+- **[Vehicle Rental Platform](https://github.com/Soumen044/Vehicle_Rental_Platform)**  
+  Map-based real-time vehicle rental system built with MERN stack. Helps users find and book nearby vehicles instantly.
+
+- **[Object Detection Car (ESP32 + Android)](https://github.com/Soumen044/Object-Detection-Car-ESP32-Android)**  
+  Real-time object detection and control system for a smart car using ESP32 and Android.
+
+Explore all projects → [GitHub Repositories](https://github.com/Soumen044?tab=repositories)
+
+---
+
+### 💼 Experience
+
+- **Industrial IoT Intern** — NSIC MSME (Aug 2025)  
+  Developed sensor and actuator solutions; improved measurement accuracy in real-time monitoring systems.
+
+- **Full Stack Web Intern** — NSIC MSME (Aug 2024)  
+  Built MERN applications with real-time data synchronization and performance optimization.
+
+- **Web Development Intern** — Ardent Computech (Sep 2023)  
+  Developed dynamic web applications using HTML, CSS, JavaScript & MySQL.
+
+---
+
+### 🎓 Education
+
+- **B.Tech in Computer Science & Engineering** — MAKAUT, West Bengal (2025–2028)
+- **Diploma in Information Technology** — WBSCTVESD (2022–2025) — 70%
+- **Higher Secondary (Commerce)** — WBCHSE (2023–2024) — 72.6%
+- **Secondary (Madhyamik)** — WBBSE (2020–2022) — 69.8%
+
+---
+
+### 🌟 Ask Me About
+
+- MERN Stack Development
+- Flutter & Android Application Development
+- IoT Systems & Embedded Programming
+
+---
+
+### 💡 Beyond Coding
+
+- ♟️ Passionate Chess Player  
+- 📖 Love reading and writing Poems  
+- 🎨 Painting nature on canvas
+
+---
+
+### 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:soumenmishra187@gmail.com"><img src="https://img.shields.io/badge/Email-soumenmishra187@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/sowmen04"><img src="https://img.shields.io/badge/LinkedIn-sowmen04-green?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/sowmen04"><img src="https://img.shields.io/badge/Twitter-@sowmen04-red?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://dev.to/sowmen04"><img src="https://img.shields.io/badge/Dev.to-sowmen04-yellow?logo=dev.to&style=for-the-badge" /></a>
-  <a href="https://instagram.com/sowmen_04"><img src="https://img.shields.io/badge/Instagram-sowmen_04-orange?logo=instagram&style=for-the-badge" /></a>
-  <a href="https://facebook.com/Sowmen04"><img src="https://img.shields.io/badge/Facebook-sowmen_04-cyan?logo=Facebook&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/sowmen04"><img src="https://img.shields.io/badge/LinkedIn-sowmen04-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/sowmen04"><img src="https://img.shields.io/badge/Twitter-@sowmen04-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://dev.to/sowmen04"><img src="https://img.shields.io/badge/dev.to-sowmen04-black?style=for-the-badge&logo=dev.to" /></a>
+  <a href="https://instagram.com/sowmen_04"><img src="https://img.shields.io/badge/Instagram-sowmen_04-blue?style=for-the-badge&logo=instagram" /></a>
 </p>
 
 ---
 
-## GitHub Stats
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=soumen044&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumen044" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen044&layout=compact&hide=html" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
-
-
----
-
-## About Me
-
-I am an enthusiastic software developer passionate about building impactful technology solutions. With hands-on expertise in modern technologies, I focus on delivering scalable web, mobile, and IoT applications.
-
----
-
-## Current Focus & Collaboration
-
-- 🔭 Building **Thisk - Mobile Application (Flutter)**
-- 🌱 Learning **Flutter, Dart, Docker**
-- 👯 Looking to collaborate on **Web, App, and IoT projects**
-- 📝 Regular tech writer on [LinkedIn](https://www.linkedin.com/in/sowmen04/)
-
----
-
-## Selected Projects
-
-- [AQI Forecasting Platform](https://github.com/Soumen044/AQI-Prediction-System): MERN + Leaflet.js web app with ML-based AQI forecasting and real-time NASA/ISRO/CPCB data integration.
-- [Vehicle Rental Platform](https://github.com/Soumen044/Vehicle_Rental_Platform): Map-based MERN app for real-time vehicle rental availability.
-- [Object-Detection-Car-ESP32-Android](https://github.com/Soumen044/Object-Detection-Car-ESP32-Android): Real-time ESP32 and Android-controlled car detection system.
-
-> Explore all repositories on [my GitHub](https://github.com/Soumen044?tab=repositories).
-
----
-
-## Tech & Tools
-
-| Category           | Technologies & Tools                                     |
-|--------------------|---------------------------------------------------------|
-| **Languages**       | Java, JavaScript, C++, Dart, SQL, HTML, CSS             |
-| **Frameworks/Libs** | React.js, Node.js, Express.js, Flutter, Arduino          |
-| **Databases**       | MongoDB, MySQL                                           |
-| **Tools**           | Git, VS Code, Android Studio, Arduino IDE, Postman      |
-| **Concepts**        | OOP, SDLC, REST APIs, Agile, IoT, Machine Learning      |
-
----
-
-## Experiences
-
-- Industrial IoT Intern, NSIC MSME (Aug 2025): Developed sensor and actuator solutions; enhanced measurement accuracy.
-- Full Stack Web Intern, NSIC MSME (Aug 2024): Built MERN applications with real-time data sync and improved performance.
-- Web Development Intern, Ardent Computech (Sep 2023): Developed web apps using HTML, CSS, JS, and MySQL; reduced bugs and improved UI.
-
----
-
-## Education
-
-- Bachelors in Technology in Computer Science Engineering, MAKAUTWB (2025-28)
-- Diploma in IT Engineering, WBSCTVESD (2022-25) — 70% overall
-- Higher Secondary, WBCHSE (2023-24) — 72.6% overall — Focus on Commerce, Business & Finance
-- Secondary (Madhyamik), WBBSE (2020-22) — 69.8% overall — Focus on Mathematics & Physical Science
-
----
-
-## Ask Me About
-
-- MERN Stack Web Development
-- Android Studio & Application Development
-- IoT Infrastructure & Embedded Systems
-
----
-
-## Love To
-
-- ♟️ Play Chess  
-- 📖 Read Poems  
-- 🎨 Paint Nature on Canvas  
-
----
-
-## Trophies & Support
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=soumen044" alt="Trophies" />
-  </a>
-  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=soumen044&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumen044&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen044&layout=compact&hide=html&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soumen044&theme=radical" alt="Trophies" />
+</p>
+
+---
+
+### ☕ Support
+
+<p align="center">
   <a href="https://www.buymeacoffee.com/soumenmishi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me a Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee" />
   </a>
 </p>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
+
+**Profile Views**  
+![Profile views](https://komarev.com/ghpvc/?username=soumen044&label=Profile%20views&color=0e75b6&style=flat)
