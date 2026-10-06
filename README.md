@@ -170,7 +170,9 @@ I write poems and shayari in **Hindi** and **Bengali** about nature, the night s
 <div align="right"><a href="https://soumenmishra.vercel.app/writings">Read all writings →</a></div>
 
 ---
-
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Soumen044/Soumen044/main/Soumen_Mishra.jpg" alt="Soumen Mishra" />
+</div>
 <!-- ═══════════════════════════ ASK ME ═══════════════════════════ -->
 
 ## 💬 Ask Me About
