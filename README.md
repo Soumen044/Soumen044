@@ -153,10 +153,8 @@ Dynamic dashboard for visualising real-time sensor data streamed from an ESP32. 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Soumen044&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumen044&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html" alt="Top languages" />
 
-<img height="180" src="https://streak-stats.demolab.com/?user=Soumen044&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-
 <a href="https://git.io/streak-stats">
-  <img width="95%" src="https://streak-stats.demolab.com?user=Soumen044&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=Soumen044&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </a>
 
 </div>
