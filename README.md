@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=soumen044&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=soumen044&label=Profile%20views&color=0e75b6&style=flat-square&v=2" alt="Profile views" />
 
 </div>
 
@@ -155,7 +155,7 @@ Dynamic dashboard for visualising real-time sensor data streamed from an ESP32. 
 
 <img height="180" src="https://streak-stats.demolab.com/?user=Soumen044&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Soumen044&theme=tokyonight&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Soumen044&theme=tokyonight&hide_border=true&bg_color=0d1117&area=true&v=2" alt="Contribution graph" />
 
 </div>
 
