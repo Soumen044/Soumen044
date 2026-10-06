@@ -1,150 +1,197 @@
-<p align="center">
-  <img src="Soumen_Mishra.jpg" alt="Soumen Mishra Banner" width="100%" />
-</p>
-<h1 align="center"> Namaste 🙏 </h1>
-<h1 align="center"> I'm Soumen Mishra ( सौमेन मिश्रा ) </h1>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Soumen%20Mishra&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=%E0%A4%B8%E0%A5%8C%E0%A4%AE%E0%A5%87%E0%A4%A8%20%E0%A4%AE%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B0%20%C2%B7%20Namaste%20%F0%9F%99%8F&descSize=20&descAlignY=58" alt="Soumen Mishra" width="100%" />
+
+<a href="https://soumenmishra.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Aspiring+Cyber+Security+Engineer;CSE+Student+%C2%B7+Full-Stack+Developer;IoT+%C2%B7+Flutter+%C2%B7+Machine+Learning;Explorer+of+code%2C+cosmos+%26+poetry" alt="Typing intro" />
+</a>
+
+<br/>
+
+<a href="https://soumenmishra.vercel.app"><img src="https://img.shields.io/badge/Portfolio-soumenmishra.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sowmen04/"><img src="https://img.shields.io/badge/LinkedIn-sowmen04-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:soumenmishra187@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<a href="https://soumenmishra.vercel.app/SoumenMishra_resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-16a34a?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+<a href="https://www.credly.com/users/sowmen04"><img src="https://img.shields.io/badge/Credly-Badges-ff6b00?style=flat-square" alt="Credly" /></a>
+<a href="https://orcid.org/0009-0008-1807-9526"><img src="https://img.shields.io/badge/ORCID-0009--0008--1807--9526-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<a href="https://dev.to/sowmen04"><img src="https://img.shields.io/badge/Dev.to-sowmen04-0a0a0a?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+<a href="https://twitter.com/sowmen04"><img src="https://img.shields.io/badge/X-@sowmen04-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=soumen044&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+
+</div>
+
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+
+## 👨‍💻 About Me
+
+> *"Learning how things work, then building — and securing — things that matter."*
+
+I'm a **Computer Science & Engineering student** from **West Bengal, India**, with a deep curiosity for **cyber security**, full-stack development, IoT and the universe around us. I build scalable **web, mobile and IoT** solutions, and I've been recognised in national hackathons including **ISRO** and **Unstop** for projects in **air-quality forecasting** and **vehicle rental platforms**.
+
+Away from the keyboard you'll find me playing ♟️ chess, writing 📖 poetry, observing the 🔭 night sky, or painting 🎨 nature on canvas.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+- 🔐 **Cyber security** — OWASP Top 10, ethical hacking, CTFs
+- 📱 Building **Thisk**, a mobile app in **Flutter**
+- 🌌 Crafting a **3D solar-system portfolio** with Three.js
+- 🐳 Learning **Docker** and **Dart**
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Let's Collaborate
+- 🌐 Web &amp; full-stack (MERN / Next.js) projects
+- 📡 IoT &amp; embedded systems with ESP32 / Arduino
+- 🛡️ Security research &amp; CTF teams
+- ✍️ Tech writing on [LinkedIn](https://www.linkedin.com/in/sowmen04/) &amp; [Dev.to](https://dev.to/sowmen04)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Bio
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
-<div align="left">
+## 🧰 Tech Stack
 
-Aspiring Software Engineer | Java | MERN Stack | Flutter | IoT | Machine Learning
+<div align="center">
 
-I am an IT student specializing in Java, JavaScript, Flutter, and the MERN stack. I am passionate about creating impactful solutions and have been recognized in national hackathons like ISRO and Unstop for projects in Air Quality Forecasting and Vehicle Rental platforms. Experienced in IoT and real-time monitoring systems through internships. Based in West Bengal, India.
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,dart,html,css&perline=8" alt="Languages" />
+
+**Frameworks &amp; Libraries**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,threejs,arduino&perline=7" alt="Frameworks" />
+
+**Databases &amp; Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp,redis&perline=5" alt="Databases and Cloud" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker,linux&perline=7" alt="Tools" />
+
+**Security Focus**<br/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-0f172a?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Ethical Hacking" />
+<img src="https://img.shields.io/badge/OWASP_Top_10-0f172a?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+<img src="https://img.shields.io/badge/Network_Security-0f172a?style=flat-square" alt="Network Security" />
+<img src="https://img.shields.io/badge/Threat_Modeling-0f172a?style=flat-square" alt="Threat Modeling" />
+<img src="https://img.shields.io/badge/Application_Security-0f172a?style=flat-square" alt="Application Security" />
+<img src="https://img.shields.io/badge/CTF-0f172a?style=flat-square" alt="CTF" />
 
 </div>
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=soumen044&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/soumenmishi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me a Coffee" />
-  </a>
-</p>
-
----
-
-## Connect with Me
-
-<p align="left">
-  <a href="mailto:soumenmishra187@gmail.com"><img src="https://img.shields.io/badge/Email-soumenmishra187@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/sowmen04"><img src="https://img.shields.io/badge/LinkedIn-sowmen04-green?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/sowmen04"><img src="https://img.shields.io/badge/Twitter-@sowmen04-red?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://dev.to/sowmen04"><img src="https://img.shields.io/badge/Dev.to-sowmen04-yellow?logo=dev.to&style=for-the-badge" /></a>
-  <a href="https://instagram.com/sowmen_04"><img src="https://img.shields.io/badge/Instagram-sowmen_04-orange?logo=instagram&style=for-the-badge" /></a>
-  <a href="https://facebook.com/Sowmen04"><img src="https://img.shields.io/badge/Facebook-sowmen_04-cyan?logo=Facebook&style=for-the-badge" /></a>
-</p>
-
----
-
-## GitHub Stats
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=soumen044&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumen044" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumen044&layout=compact&hide=html" alt="Most Used Languages" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌫️ [AQI Prediction System](https://github.com/Soumen044/AQI-Prediction-System)
+AI-powered air-quality forecasting using satellite data and machine learning, with a MERN + Leaflet.js dashboard and real-time **NASA / ISRO / CPCB** data integration.
+
+`MERN` `Leaflet.js` `Machine Learning` `Jupyter`
+⭐ *Hackathon-recognised*
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 [Vehicle Rental Platform](https://github.com/Soumen044/Vehicle_Rental_Platform)
+Map-based rental platform with real-time availability, user authentication, vehicle management, booking system and payment processing.
+
+`React` `Express.js` `MongoDB` `Maps`
+⭐ *Hackathon-recognised*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Object-Detection Car (ESP32 + Android)](https://github.com/Soumen044/Object-Detection-Car-ESP32-Android)
+Wi-Fi-enabled, Android-controlled car with ultrasonic obstacle detection (within 60 cm), powered by an ESP32 and the HC-SR04 sensor.
+
+`ESP32` `Java` `Android` `IoT`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [ESP32 Dashboard](https://github.com/Soumen044/ESP32.Dashboard)
+Dynamic dashboard for visualising real-time sensor data streamed from an ESP32. Built during industrial IoT work.
+
+`JavaScript` `ESP32` `Real-time Data`
+
+</td>
+</tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/Soumen044?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
+<a href="https://soumenmishra.vercel.app/projects"><img src="https://img.shields.io/badge/Full_Project_Gallery-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Project gallery" /></a>
+
+</div>
 
 ---
 
-## About Me
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 
-I am an enthusiastic software developer passionate about building impactful technology solutions. With hands-on expertise in modern technologies, I focus on delivering scalable web, mobile, and IoT applications.
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-## Current Focus & Collaboration
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Soumen044&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumen044&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html" alt="Top languages" />
 
-- 🔭 Building **Thisk - Mobile Application (Flutter)**
-- 🌱 Learning **Flutter, Dart, Docker**
-- 👯 Looking to collaborate on **Web, App, and IoT projects**
-- 📝 Regular tech writer on [LinkedIn](https://www.linkedin.com/in/sowmen04/)
+<img height="180" src="https://streak-stats.demolab.com/?user=Soumen044&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 
----
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Soumen044&theme=tokyonight&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" />
 
-## Selected Projects
-
-- [AQI Forecasting Platform](https://github.com/Soumen044/AQI-Prediction-System): MERN + Leaflet.js web app with ML-based AQI forecasting and real-time NASA/ISRO/CPCB data integration.
-- [Vehicle Rental Platform](https://github.com/Soumen044/Vehicle_Rental_Platform): Map-based MERN app for real-time vehicle rental availability.
-- [Object-Detection-Car-ESP32-Android](https://github.com/Soumen044/Object-Detection-Car-ESP32-Android): Real-time ESP32 and Android-controlled car detection system.
-
-> Explore all repositories on [my GitHub](https://github.com/Soumen044?tab=repositories).
+</div>
 
 ---
 
-## Tech & Tools
+<!-- ═══════════════════════════ BEYOND CODE ═══════════════════════════ -->
 
-| Category           | Technologies & Tools                                     |
-|--------------------|---------------------------------------------------------|
-| **Languages**       | Java, JavaScript, C++, Dart, SQL, HTML, CSS             |
-| **Frameworks/Libs** | React.js, Node.js, Express.js, Flutter, Arduino          |
-| **Databases**       | MongoDB, MySQL                                           |
-| **Tools**           | Git, VS Code, Android Studio, Arduino IDE, Postman      |
-| **Concepts**        | OOP, SDLC, REST APIs, Agile, IoT, Machine Learning      |
+## ✍️ Beyond Code — Poems &amp; Writings
+
+I write poems and shayari in **Hindi** and **Bengali** about nature, the night sky and everyday wonder.
+
+<div align="right"><a href="https://soumenmishra.vercel.app/writings">Read all writings →</a></div>
 
 ---
 
-## Experiences
+<!-- ═══════════════════════════ ASK ME ═══════════════════════════ -->
 
-- Industrial IoT Intern, NSIC MSME (Aug 2025): Developed sensor and actuator solutions; enhanced measurement accuracy.
-- Full Stack Web Intern, NSIC MSME (Aug 2024): Built MERN applications with real-time data sync and improved performance.
-- Web Development Intern, Ardent Computech (Sep 2023): Developed web apps using HTML, CSS, JS, and MySQL; reduced bugs and improved UI.
+## 💬 Ask Me About
 
----
-
-## Education
-
-- Bachelors in Technology in Computer Science Engineering, MAKAUTWB (2025-28)
-- Diploma in IT Engineering, WBSCTVESD (2022-25) — 70% overall
-- Higher Secondary, WBCHSE (2023-24) — 72.6% overall — Focus on Commerce, Business & Finance
-- Secondary (Madhyamik), WBBSE (2020-22) — 69.8% overall — Focus on Mathematics & Physical Science
+`MERN & Next.js development` · `Android & Flutter apps` · `IoT & embedded systems (ESP32 / Arduino)` · `Web application security & CTFs`
 
 ---
 
-## Ask Me About
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
-- MERN Stack Web Development
-- Android Studio & Application Development
-- IoT Infrastructure & Embedded Systems
+<div align="center">
 
----
+### 🌠 Let's build something memorable.
 
-## Love To
+<a href="https://soumenmishra.vercel.app"><img src="https://img.shields.io/badge/Visit_My_Universe-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
+<a href="mailto:soumenmishra187@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
+<a href="https://www.buymeacoffee.com/soumenmishi"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 
-- ♟️ Play Chess  
-- 📖 Read Poems  
-- 🎨 Paint Nature on Canvas  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" width="100%" />
 
----
-
-## Trophies & Support
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=soumen044" alt="Trophies" />
-  </a>
-  <br />
-  <a href="https://www.buymeacoffee.com/soumenmishi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me a Coffee" />
-  </a>
-</p>
+</div>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
